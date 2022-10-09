@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Stock {
     Scanner sc = new Scanner(System.in);
     public static int stock(int n){
